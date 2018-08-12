@@ -1,7 +1,7 @@
 {
   "name": "dating",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic Matching Algorith used in Javascript. A guide for EXPRESS Routes Tutorial. Easy Basic Steps.",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -14,5 +14,13 @@
     "start": "node server.js"
   },
   "author": "Venkat Avinash Karra",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviboot92/friend-matcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aviboot92/friend-matcher/issues"
+  },
+  "homepage": "https://github.com/aviboot92/friend-matcher#readme"
 }
